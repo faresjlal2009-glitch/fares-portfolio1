@@ -61,7 +61,7 @@
             logos: 'الشعارات',
             branding: 'الهويات البصرية',
             'social-media': 'تصاميم السوشيال ميديا',
-            thumbnails: 'صور مصغره ليوتيوب',
+            thumbnails: 'صور مصغرة ليوتيوب',
             other: 'أعمال أخرى'
         };
         return names[category] || names.other;
